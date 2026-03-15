@@ -37,3 +37,7 @@ a.foo{
 background:#567;
 color:black;
 }
+.header:hover{
+font-wight:bold;
+font-size:30px;
+}
