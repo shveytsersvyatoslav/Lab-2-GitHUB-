@@ -13,7 +13,7 @@ ol li {
 }
 footer {
     padding-top: 3px;
-    padding-bottom: 3px;
+    padding-bottom: 3px;a
     padding-left:  30px;
     background: #444;
     color: white;
@@ -25,4 +25,7 @@ a.foo:hover {
 a.foo {
   text-decoration-color: white;
   color: white;
+}
+#table:hover {
+  color: green;
 }
