@@ -41,3 +41,6 @@ color:black;
 font-wight:bold;
 font-size:30px;
 }
+ol:hover {
+font-size:10px;
+}
